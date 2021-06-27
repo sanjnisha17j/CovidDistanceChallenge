@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Covid19VaccinationChallenge", "Covid19VaccinationChallenge.csproj", "{8CA86AF9-90C4-4DC1-9BEB-C243ED47C0FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidVaccinationChallengeTest", "..\CovidVaccinationChallengeTest\CovidVaccinationChallengeTest.csproj", "{62DCC793-3D6F-4D4E-89E0-754230C5E92B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CA86AF9-90C4-4DC1-9BEB-C243ED47C0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA86AF9-90C4-4DC1-9BEB-C243ED47C0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA86AF9-90C4-4DC1-9BEB-C243ED47C0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA86AF9-90C4-4DC1-9BEB-C243ED47C0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62DCC793-3D6F-4D4E-89E0-754230C5E92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DCC793-3D6F-4D4E-89E0-754230C5E92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DCC793-3D6F-4D4E-89E0-754230C5E92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DCC793-3D6F-4D4E-89E0-754230C5E92B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1D5BD32-AC58-4114-8D6A-077CEA2B110E}
+	EndGlobalSection
+EndGlobal
